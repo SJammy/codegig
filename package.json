@@ -13,9 +13,11 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
+    "handlebars": "^4.1.2",
+    "lodash": "^4.17.14",
     "pg": "^7.9.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^5.2.12"
+    "sequelize": "^6.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
